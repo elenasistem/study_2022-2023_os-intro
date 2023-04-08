@@ -47,7 +47,7 @@
 1.1.1. Скопируем файл \~/abc1 в файл april и в файл may: cd touch abc1
 cp abc1 april cp abc1 may (Ссылка: риc.1).
 
-![](image1.png)
+![](image/image1.png)
 
 ![](media/image1.png){width="6.496527777777778in"
 height="4.532638888888889in"}
